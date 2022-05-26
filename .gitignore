@@ -1,0 +1,5 @@
+.vscode/
+build/
+RC_codes/
+wifi_cred.h
+
